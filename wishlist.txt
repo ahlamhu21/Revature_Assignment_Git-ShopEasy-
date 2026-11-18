@@ -1,1 +1,2 @@
 Wishlist feature
+Save favorite items
