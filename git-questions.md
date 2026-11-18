@@ -1,4 +1,4 @@
-# Git Questions and Answers
+# Questions and Answers
 
 ### 1. What is the difference between git fetch and git pull?
 - `git fetch` downloads updates but does not merge them.
